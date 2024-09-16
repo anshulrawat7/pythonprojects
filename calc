@@ -1,4 +1,4 @@
-calculator code
+#calculator code
 num1=int(input("enter your number"))
 num2=int(input("enter your number"))
 opr=input("enter your operator")
